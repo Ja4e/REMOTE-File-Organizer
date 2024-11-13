@@ -1,3 +1,5 @@
+## i plan to try to implement remote server that reads the data from your hosted llama LLM to this 
+
 # Local File Organizer: AI File Management Run Entirely on Your Device, Privacy Assured
 
 Tired of digital clutter? Overwhelmed by disorganized files scattered across your computer? Let AI do the heavy lifting! The Local File Organizer is your personal organizing assistant, using cutting-edge AI to bring order to your file chaos - all while respecting your privacy.
